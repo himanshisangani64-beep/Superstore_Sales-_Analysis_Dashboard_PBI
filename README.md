@@ -190,7 +190,7 @@ The dashboard combines KPI cards, a donut chart, bar charts, and slicers to pres
 
 ### 3. Part B Screenshot
 
-![Superstore Sales Analysis Dashboard](images/dashboard_image.png)
+![Superstore Sales Analysis Dashboard](Images/Dashboard_Image.png)
 
 ---
 
