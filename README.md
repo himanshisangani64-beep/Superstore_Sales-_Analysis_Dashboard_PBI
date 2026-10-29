@@ -159,7 +159,7 @@ The following columns are visible in the Power Query:
 
 ### 4. Part A Screenshot
 
-![Power Query Data Transformation](images/Powe_Query.png)
+![Power Query Data Transformation](Images/Power_Query.png)
 
 
 ### 5. Outcome of Part A
